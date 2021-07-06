@@ -1,5 +1,10 @@
-Hi, my name is vald. I work on scripts for game hacks, such as onetap, aimware, neverlose and gamesense (mainly the last one).
-I'm fluent in javascript and lua, and i'm currently learning python :)
+game hacking enthusiast;
+
+fluent in javascript and lua;
+
+proud gamesense.pub user;
+
+also aspiring editor/song producer (not sure about the last one tho..).
 
 <!---
 kvpairs/kvpairs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
